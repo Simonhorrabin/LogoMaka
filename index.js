@@ -1,6 +1,8 @@
-const inquirer = ('inquirer');
+const inquirer = require('inquirer');
 const fs = require('fs');
-const generateLogo = require9('./utils/generateLogo');
+const generateLogo = require('./utils/generateLogo');
+
+import('inquirer').then(inquirer => )
 
 const questions = [ 
     // when prompted for a shape
@@ -21,7 +23,7 @@ const questions = [
         type: "input",
         message: "what color do you want your shape to be?",
         name: "shape_color",
-    },()
+    },
     // WHEN I am prompted for text 
     // THEN I can enter up to three characters
     {
@@ -34,6 +36,7 @@ const questions = [
         message: "choose the color of your text",
         name: "text_color"
     },
+];    
 
     //WHEN I have entered the input for prompts
     // THEN a SVG file logo will be created name "logo.svg"
@@ -55,5 +58,10 @@ const questions = [
             writeToFile(fileName, data);
         });
     }
+
+    // function to call to initialize app
+    init();
+
+
 
 
