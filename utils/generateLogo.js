@@ -7,11 +7,11 @@ function generateLogo(data) {
     if (data.shape === 'triangle') {
         shape = new triangle(data.shape_color, data.text, data.text_color)
     } else if (data.shape === 'square') {
-        shape = new square(data.shape_color, data.text, date.text_color)
+        shape = new square(data.shape_color, data.text, data.text_color)
     } else {
         shape = new circle(data.shape_color, data.text, data.text_color)
     }
     return shape.render();
 }
 
-module.exports = generateLogo.js 
+module.exports = generateLogo

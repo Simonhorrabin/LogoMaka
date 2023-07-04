@@ -1,8 +1,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateLogo = require('./utils/generateLogo');
-
-import('inquirer').then(inquirer => )
+console.log(generateLogo)
 
 const questions = [ 
     // when prompted for a shape
