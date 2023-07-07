@@ -22,6 +22,20 @@ To run a test you must first open the terminal and utilize the command node inde
 ## Screenshots
 ![logomaka1](https://github.com/Simonhorrabin/LogoMaka/assets/123128833/fe462cc5-ee89-4c68-b1b8-076f5808c4b2)
 
+![shape](https://github.com/Simonhorrabin/LogoMaka/assets/123128833/f138ce18-5898-4135-9249-79fc514e5590)
+
+![square](https://github.com/Simonhorrabin/LogoMaka/assets/123128833/85b11d96-a97a-41b9-b3e0-049b8ffac508)
+
+![triangle](https://github.com/Simonhorrabin/LogoMaka/assets/123128833/09345525-c271-49c4-959f-6816f194ce75)
+
+![circle](https://github.com/Simonhorrabin/LogoMaka/assets/123128833/6a14b4db-f66c-49af-8349-fcd6c3a16f4a)
+
+![Screenshot 2023-07-07 011250](https://github.com/Simonhorrabin/LogoMaka/assets/123128833/99ef8dcf-81a8-4216-828f-9a55b0850a73)
+
+
+
+
+
 
 ## Technologies Used
 
