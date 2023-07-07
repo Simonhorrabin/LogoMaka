@@ -32,6 +32,10 @@ To run a test you must first open the terminal and utilize the command node inde
 
 ![Screenshot 2023-07-07 011250](https://github.com/Simonhorrabin/LogoMaka/assets/123128833/99ef8dcf-81a8-4216-828f-9a55b0850a73)
 
+![Screenshot 2023-07-07 011756](https://github.com/Simonhorrabin/LogoMaka/assets/123128833/4295ddbe-9113-4ea3-b33b-9f022d49f359)
+
+![Screenshot 2023-07-07 011936](https://github.com/Simonhorrabin/LogoMaka/assets/123128833/b84812bd-eb29-4eb2-a22a-0db76a99e4dd)
+
 
 
 
